@@ -1,4 +1,3 @@
-
 const container = document.querySelector('.container');
 const resizeBtn = document.getElementById('resizeBtn');
 
